@@ -4,9 +4,9 @@
     src: url(../fonts/JosefinSans-Regular.ttf) format('truetype');
 }
 @font-face {
-    font-family: 'Josefin Sans';
-    font-style: italic;
-    src: url(../fonts/JosefinSans-Italic.ttf) format('truetype');
+    font-family: 'Montserrat';
+    font-style: normal;
+    src: url(../fonts/Montserrat-Regular.ttf) format('truetype');
 }
 
 * {
@@ -17,14 +17,10 @@
 body {
     background: white;
     color: #333;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 a {
     color: inherit;
-}
-
-h1 {
-    font-style: italic;
 }
 
 footer {
