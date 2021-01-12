@@ -52,10 +52,10 @@ body {
 }
 
 .logo {
-    width: 500px;
+    width: 300px;
     max-width: 90vw;
     animation: over 1s ease-out;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 @keyframes over {
     from { transform: translateX(-100vw); }
@@ -63,7 +63,7 @@ body {
 }
 
 .download-buttons {
-    margin-top: 15px;
+    margin-top: 20px;
 }
 .download-buttons .download-button {
     text-decoration: none;
