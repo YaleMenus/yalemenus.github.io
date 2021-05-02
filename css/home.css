@@ -108,6 +108,7 @@ h1, h2, hr, .download-buttons {
     }
     .column.info {
         width: 50%;
+        padding-top: 0;
     }
     .logo {
         width: 300px;
