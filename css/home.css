@@ -70,12 +70,11 @@ h2 {
     font-style: italic;
     font-size: 25px;
     margin-bottom: 12px;
-    color: #666;
 }
 hr {
     height: 2px;
     width: 40px;
-    background: #999;
+    background: #666;
     border: none;
     margin: 5px 0;
 }
