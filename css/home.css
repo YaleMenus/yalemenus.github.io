@@ -80,6 +80,7 @@ hr {
 }
 .download-buttons {
     margin-top: 20px;
+    margin-bottom: 10px;
 }
 .download-buttons .download-button {
     text-decoration: none;
@@ -87,7 +88,7 @@ hr {
 .download-buttons .download-button img {
     width: 200px;
 }
-h1, h2, hr, .download-buttons {
+h1, h2, hr, .download-buttons, .links {
     animation: 3s fade;
 }
 
